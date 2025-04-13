@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_button_event" id="vek07S|Bk)^*T3@Se/[a" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_clear_display" id="T~QX.@MAR%DdsF}yAhIA"><next><block type="device_print_message" id="6*V_ZUjJk-^Ri[X^REhb"><value name="text"><shadow type="text" id="qQF!m=V:B0LpiDY+{zov"><field name="TEXT">Not again, Mom!</field></shadow></value><next><block type="device_show_leds" id="Oumk+k-hAH_2Tn5{c|Em"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . # . . 
+        # . . . # 
+        . # # # .
+        `</field></block></next></block></next></block></statement></block><block type="pxt-on-start" id="N^D(l~aZt.4*HxN,(b/{" x="241" y="172"><statement name="HANDLER"><block type="device_show_leds" id="Te`.L_Ch}#)NwHgew/wv"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . # . . 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block><block type="device_button_event" id="XXnincQh~[mD{9166P,A" x="4" y="432"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_clear_display" id="@c-J9Lw@ASic2aM3P;v["><next><block type="device_print_message" id=".OuolBG,3r(Ek!~wg^V*"><value name="text"><shadow type="text" id="y/mMUpPA%b_35Xn7K#Pn"><field name="TEXT">Rodrick rules</field></shadow></value><next><block type="device_show_leds" id="v7Bvp3OReOps7JhnASxc"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . # . . 
+        # . . . # 
+        . # # # .
+        `</field></block></next></block></next></block></statement></block><block type="device_gesture_event" id="5@g[F$,WnsrOODK@,YEy" x="307" y="511"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_clear_display" id="E=-V;9DuO4zkwMQTp2gr"><next><block type="basic_show_icon" id="8FA(dN{n#:-3`I%U8JqB"><field name="i">IconNames.Surprised</field><next><block type="device_show_leds" id=")dlvF^cg}5KZsF[Z9W-c"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . # . . 
+        # . . . # 
+        . # # # .
+        `</field></block></next></block></next></block></statement></block></xml>
